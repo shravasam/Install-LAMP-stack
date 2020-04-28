@@ -1,0 +1,12 @@
+zend_extension=/usr/lib/php/20151012/xdebug.so
+
+[xdebug]
+    xdebug.remote_enable=1
+    xdebug.remote_handler=dbgp
+    xdebug.remote_host=localhost
+    xdebug.remote_port=9000
+
+http://xdebug.org/docs/install
+sudo chmod 750 /etc/php/7.4/apache2/php.ini
+sudo chmod 750 /etc/php/7.4/cli/php.ini
+https://stackoverflow.com/questions/36167808/eclipse-php-fatal-error-call-to-undefined-function-mysqli-connect

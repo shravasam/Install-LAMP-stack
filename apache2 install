@@ -1,0 +1,32 @@
+sudo systemctl disable apache2
+
+sudo systemctl enable apache2
+
+sudo systemctl stop apache2
+
+
+sudo systemctl start apache2
+
+sudo systemctl restart apache2
+
+sudo systemctl reload apache2
+
+sudo apache2ctl -v
+
+sudo apache2ctl -t
+
+sudo apache2ctl -t -D DUMP_VHOSTS
+
+sudo apache2ctl -M
+
+
+Configuration des ports d'écoute
+/etc/apache2/ports.conf,
+
+Server version: Apache/2.4.18 (Ubuntu)
+
+
+php -m | grep mysqli
+
+/usr/lib/php/20190902
+

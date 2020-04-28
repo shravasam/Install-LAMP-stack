@@ -1,0 +1,36 @@
+https://github.com/rajivkanaujia/alphaworks/wiki/Configure-PHP-for-Web-Development-using-Eclipse
+
+
+php development tools remote projet sync
+org.eclipse.php.rdt.sync.feature.gpoup
+
+https://doc.ubuntu-fr.org/apache2
+sudo systemctl enable apache2
+
+https://vitux.com/how-to-install-and-configure-apache-web-server-on-ubuntu/?__cf_chl_jschl_tk__=e5677dd63ee63190d864d1932618c655a0d95248-1587147559-0-AaPt6VE0pbgR1rMh2Gq8mmos23Y22e4Fqbtz6iCiQW-D4PvIu75aWbTaNDbvH53PGd8pi3vSMaN-teyO2kYWJijV220hlKCnb0OHgbK6PvAJr_7S6gloIrtl5V_bpiHHpKxiaKkL4U-I7zQ3IjW4WaJRYAUbbqUrM3xYxmMVDqqtYhQqwBPxsrG93ao92TSC8WgsmzxTwvReqOg6EGZdOyOJidalfNYJAj77XujxHJy7uhgYUR2pqYXpLIlQMZ5nVHBVtYzHHtE2han2UgQGuu60fWuKla7cZAEPJwbkxhoERI7H8BWuMQ6PVCunpSpwBc1cglFRFkjuD5Fw3ibRLejf5l2YMhXAbwcZdsXLrhpmgiKZu2-zqk0N8XfMGKSY3u4nBC75gQc2K9ue_6aZt-T9VjGQpW6kEpmeV2hRQ8E5
+
+
+https://doc.ubuntu-fr.org/eclipse_php_xdebug#configuration
+
+https://www.h-hennes.fr/blog/2020/04/
+
+
+/etc/php/7.0/apache2/php.ini
+
+php ini file
+php executable path
+sudo chmod 750 /etc/php/7.4/apache2/php.ini
+
+
+https://stackoverflow.com/questions/39542132/fatal-error-call-to-undefined-function-mysqli-connect/43201343
+
+
+systemctl status snapd.service
+
+configure phpstrom server
+https://stackoverflow.com/questions/47680832/php-cgi-not-found-in-phpstorm-resulting-in-502-bad-gateway/47684720
+
+
+
+https://stackoverflow.com/questions/37929654/call-to-undefined-function-mysqli-connect-persistent-issue
+https://stackoverflow.com/questions/24239128/phpstorm-problems-with-php-cgi
